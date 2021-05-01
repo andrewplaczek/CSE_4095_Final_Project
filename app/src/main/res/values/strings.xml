@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CSE_4095_Final_Project</string>
+    <string name="title_insert">Insert / Delete</string>
+    <string name="title_update">Update</string>
+    <string name="title_display">Display</string>
+    <string name="stock_name">Stock Name:</string>
+    <string name="dialog_already_in_DB">Stock already in DB</string>
+    <string name="dialog_not_in_DB">Stock not in DB</string>
+    <string name="okay">OK</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete">Delete</string>
+</resources>
