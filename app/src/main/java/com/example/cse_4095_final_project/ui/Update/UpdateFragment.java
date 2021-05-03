@@ -77,7 +77,7 @@ public class UpdateFragment extends Fragment {
                 boolean stockfound = false;
                 //Loop through all stocks, see if stock name is present (modified version of is stock in db)
                 for (Stock stock : allStocks.getValue()){
-                    //If stock is found, delete from database
+                    //If stock is found, update
                     if (stockname.equals(stock.name)){
                         stockfound = true;
                         stock.price = newprice;
