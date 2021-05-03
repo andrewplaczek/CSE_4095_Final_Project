@@ -31,7 +31,7 @@ public class DisplayFragment extends Fragment {
 
     private DisplayViewModel displayViewModel;
 
-    private static final String TAG = "_UpdateFragment_";
+    private static final String TAG = "_DisplayFragment_";
     private PortfolioViewModel portfolioViewModel;
     private Button displaystocks;
     private LiveData<List<Stock>> allStocks;

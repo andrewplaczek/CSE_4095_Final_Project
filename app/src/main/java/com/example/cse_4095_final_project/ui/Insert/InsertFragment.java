@@ -36,7 +36,7 @@ public class InsertFragment extends Fragment {
 
     private InsertViewModel insertViewModel;
 
-    private static final String TAG = "_MainActivity_";
+    private static final String TAG = "_InsertFragment_";
     private Button addStockButton;
     private Button deleteStockButton;
     private EditText nameEditText;
